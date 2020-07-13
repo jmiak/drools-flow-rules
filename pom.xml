@@ -6,8 +6,8 @@
   <artifactId>dools-flow</artifactId>
   <version>1.0.0</version>
   <packaging>kjar</packaging>
-  <name>drools-flow-rules</name>
-  <description>drools-flow-rules</description>
+  <name>DroolsFlow</name>
+  <description>DroolsFlow</description>
   <dependencies>
     <dependency>
       <groupId>org.kie</groupId>
