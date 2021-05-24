@@ -1,0 +1,9 @@
+package com;
+
+import java.lang.Number;
+
+rule "xxx"
+	dialect "mvel"
+	when
+	then
+end
